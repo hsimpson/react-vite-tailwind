@@ -6,7 +6,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="p-4">
       <h1>Hello, React!</h1>
       <button onClick={onClick}>Click me!</button>
     </div>
